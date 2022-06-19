@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "o apanhador no campo de centeio",
+      "price": 25.99,
+      "quantity": 5,
+      "category": "Drama",
+      "img": "img01"
+    },
+    {
+      "id": 2,
+      "name": "as sete faces do humor",
+      "price": 9.99,
+      "quantity": 8,
+      "category": "Comédia",
+      "img": "img02"
+    },
+    {
+      "id": 3,
+      "name": "a escrava isaura",
+      "price": 7.25,
+      "quantity": 4,
+      "category": "Drama",
+      "img": "img03"
+    },
+    {
+      "id": 4,
+      "name": "metro 2033",
+      "price": 12.99,
+      "quantity": 10,
+      "category": "Ficção Científica",
+      "img": "img04"
+    },
+    {
+      "id": 5,
+      "name": "quem manda já morreu",
+      "price": 14.75,
+      "quantity": 12,
+      "category": "Ação",
+      "img": "img05"
+    }    
+  ]
+}
