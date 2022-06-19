@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Also, you must open a new terminal and run `json-server -watch db.json` to start a local terminal. It'll allow to use a REST server embbeded.
 
 ## Code scaffolding
 
